@@ -1,6 +1,6 @@
 # MLKitTest
 
-This is the code repository for the blog [ML Kit on iOS and how it performs against CoreML]()
+This is the code repository for the blog [ML Kit on iOS and how it performs against CoreML](https://blog.xmartlabs.com/2018/06/21/ML-Kit-CoreML/)
 
 It is an example of how to use ML Kit in iOS and includes a comparison with CoreML.
 
